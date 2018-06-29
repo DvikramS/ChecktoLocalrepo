@@ -17,8 +17,12 @@ public class AddToCart {
 	public static String assertText=".//*[@id='layer_cart']/div[1]/div[1]/h2";
 	public static String assertActualText;
 	public static String actualtext="Product successfully added to your shopping cart";
+
 	
 	//comment from local
+
+	//comment from git
+
 	
 	
 	public static void VerifyAddToCart(){
