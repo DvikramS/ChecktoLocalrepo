@@ -18,6 +18,7 @@ public class AddToCart {
 	public static String assertActualText;
 	public static String actualtext="Product successfully added to your shopping cart";
 	
+	//comment from local
 	
 	
 	public static void VerifyAddToCart(){
